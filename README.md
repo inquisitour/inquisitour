@@ -3,6 +3,8 @@
 
 HELLO WORLD!
 
-This is inquisitour.. asking brutal questions in life.
+This is inquisitour.. 
+
+A modern day philosopher asking brutal questions in life.
 
 Whats yours ?
