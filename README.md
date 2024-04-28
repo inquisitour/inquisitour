@@ -1,1 +1,1 @@
-How green is your github?
+Ad Astra 🚀
